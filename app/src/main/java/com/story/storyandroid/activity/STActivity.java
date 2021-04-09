@@ -30,7 +30,7 @@ public abstract class STActivity extends AppCompatActivity {
         public void handleMessage(@NonNull Message msg) {
             STActivity activity = activityWeakReference.get();
             if(activity != null){
-
+                activity.handleMessage(msg);
             }
         }
     }
