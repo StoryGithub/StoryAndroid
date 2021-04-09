@@ -1,4 +1,4 @@
-package com.story.stbaseproject;
+package com.story.storyandroid;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

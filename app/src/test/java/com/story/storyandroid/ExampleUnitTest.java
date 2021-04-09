@@ -1,4 +1,4 @@
-package com.story.stbaseproject;
+package com.story.storyandroid;
 
 import org.junit.Test;
 

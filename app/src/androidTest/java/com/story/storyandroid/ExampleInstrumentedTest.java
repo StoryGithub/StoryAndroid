@@ -1,4 +1,4 @@
-package com.story.stbaseproject;
+package com.story.storyandroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.story.stbaseproject", appContext.getPackageName());
+        assertEquals("com.story.storyandroid", appContext.getPackageName());
     }
 }
