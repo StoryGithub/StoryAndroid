@@ -1,3 +1,4 @@
+include ':StoryAndroid'
 include ':mvp'
 include ':app'
 rootProject.name = "StoryAndroid"

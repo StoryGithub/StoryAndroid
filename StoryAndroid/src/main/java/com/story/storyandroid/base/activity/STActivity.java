@@ -1,4 +1,4 @@
-package com.story.storyandroid.activity;
+package com.story.storyandroid.base.activity;
 
 import android.os.Bundle;
 import android.os.Handler;
